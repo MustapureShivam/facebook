@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(188, 188, 214);
+}
+h1{
+    color: blue;
+    font-size: 60px;
+    padding-top: 10px;
+}
+#lef{
+    height: 430px;
+    width: 400px;
+    background-color: white;
+   
+
+}
+input{
+    padding-left: 10px;
+    height: 45px;
+    width: 350px;
+    border-radius: 10px;
+    justify-content: space-around;
+    
+}
+#sub{
+    height: 50px;
+    width: 365px;
+   background-color: blue;
+   color: white;
+    border-radius: 10px;
+}
+#cre{
+    background-color: rgb(27, 122, 27);
+    height: 50px;
+    width: 250px;
+    font-size: 20px;
+    color: white;
+
+}
+hr{
+    padding-left: 20px;
+}
